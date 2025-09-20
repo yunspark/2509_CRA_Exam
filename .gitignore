@@ -1,6 +1,11 @@
+# folders
 .git
 .venv
 .venv_pc
 .venv_thinkpad
 .idea
 __pycache__
+htmlcov
+
+# individual files
+.coverage
